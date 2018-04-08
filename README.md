@@ -24,14 +24,14 @@ Per Apple:
 ## Let's start
 - L'obiettivo di oggi è quello di creare la propria pagina professionale
 
-- Apri ATOM e crea un nuovo file HTML e salvalo
+- Puoi aprire ATOM e creare un nuovo file HTML
 
 - Adesso puoi andare su Bulma e copiarti lo "Starter Template"
 - Puoi incollarlo sul nuovo file appena creato
 - Per vedere il tuo risultato apri il file su Chrome
 
-### Inserisci il tuo nome nel titolo
-### Se vuoi puoi inserire una descrizione oppure puoi cancellare quello che non ti serve
+#### Dai un titolo al tuo documento
+#### Se vuoi puoi inserire una descrizione oppure puoi cancellare quello che non ti serve
 
 
 ## Bulma utilizza una struttura basata su sezioni (section)
@@ -47,6 +47,21 @@ Per Apple:
 ```
 ## Per usare gli elementi di Bulma puoi copiarli da "Elements" e "Components"
 
-## Aggiungi la tua foto
+## Puoi aggiungere la tua foto
+- Elements
+- Image
+- Cambia il percorso file della tua immagine
+
+## Accanto alla tua foto puoi aggiungere le tue informazioni personali come il nome e i contatti
+- Elements
+- Contents
+
+## Formazione
+
+## Esperienza lavorativa
+
+## Capacità e competenze personali
+
+
 
 ## Solution
