@@ -1,4 +1,4 @@
-# bulmalicious-web-pages :sparkles:
+# Bulmalicious Web Pages :sparkles:
 Di Samantha Baita & Daniela Bolza
 
 ## Cosa serve per iniziare?
@@ -42,6 +42,7 @@ Per Apple:
 - Per vedere il tuo risultato apri il file su Chrome
 
 #### Dai un titolo al tuo documento
+
 #### Se vuoi puoi inserire una descrizione oppure puoi cancellare quello che non ti serve
 
 
@@ -56,7 +57,8 @@ Per Apple:
   </div>
 </section>
 ```
-## Per usare gli elementi di Bulma puoi copiarli da "Elements" e "Components"
+## Usare gli elementi di Bulma
+- Per utilizzare i vari elementi e componenti di Bulma, puoi cercare quello che vuoi aggiungere copiarlo e incollarlo all'interno del tuo codice :blush:
 
 ## Puoi aggiungere la tua foto
 - Elements
@@ -73,6 +75,10 @@ Per Apple:
 
 ## Capacità e competenze personali
 
+## Icone
 
 
-## Solution
+
+## Soluzione
+
+La soluzione con il tutto il codice è disponibile [qui](Soluzione/index.html)
