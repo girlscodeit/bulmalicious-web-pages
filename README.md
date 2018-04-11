@@ -1,34 +1,8 @@
 # Bulmalicious Web Pages :sparkles:
 Di Samantha Baita & Daniela Bolza
 
-## Cosa serve per iniziare?
-- [ATOM](https://atom.io/)
-- Per evitare di salvare il file tutte le volte, puoi impostare l'autosalvataggio
-
-
-## Impostare autosave su Atom (Windows)
-Per Windows:
-1. File ![1.File](/Screen/Windows/1_Settings.png)
-2. Settings
-3. Packages
-4. Scrivi nella barra di ricerca "autosave" e premi invio ![2.Packages](/Screen/Windows/2_Packages.png)
-5. Nel riquadro di Core Packages clicca "settings"
-6. Nella nuova schermata metti la spunta in Settings su "Enabled" ![3.Autosave](/Screen/Windows/3_Autosave.png)
-
-##Impostare autosave su Atom (MacOS)
-
-Per Apple:
-1. Atom ![1.File](/Screen/MacOS/1_Settings.png)
-2. Preferences
-3. Packages
-4. Scrivi nella barra di ricerca "autosave" e premi invio ![2.Packages](/Screen/MacOS/2_Packages.png)
-5. Nel riquadro di Core Packages clicca "settings"
-6. Nella nuova schermata metti la spunta in Settings su "Enabled" ![3.Autosave](/Screen/MacOS/3_Autosave.png)
-
-
-
 ## Cos'è Bulma?
-- [BULMA](https://bulma.io/)
+- [BULMA](https://bulma.io/) (https://bulma.io/)
 - È uno strumento che serve per creare pagine web.
 - Immaginati una cassetta degli attrezzi dalla quale puoi prendere quello che ti serve
 
