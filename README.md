@@ -107,7 +107,7 @@ Di Samantha Baita & Daniela Bolza
 
 ![](/Screen/competenze_linguistiche.png)
 
-## Aggiungi un pò di colore
+## Aggiungi un po' di colore
 - Per inserire del colore all'interno del tuo documento puoi sostituire la prima _section_ con un _hero_
 
 ```
